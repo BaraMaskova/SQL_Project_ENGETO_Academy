@@ -1,3 +1,6 @@
+/*
+ * 1. Rostou v průběhu let mzdy ve všech odvětvích, nebo v některých klesají?
+ */
 -- Pohled: prumer mzdy za rok/odvetvi
 CREATE OR REPLACE VIEW v_barbora_maskova_avg_wages_by_sector_and_year AS
 SELECT
