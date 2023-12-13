@@ -4,7 +4,7 @@
  */
 -- Pohled: HDP v ČR v letech 2006 - 2018
 CREATE OR REPLACE VIEW v_barbora_maskova_gdp_cr_2006_2018 AS
-SELECT * FROM t_barbora_maskova_project_SQL_secondary_final
+SELECT * FROM t_barbora_maskova_project_sql_secondary_final
 WHERE country = 'Czech Republic';
 
 SELECT * FROM v_barbora_maskova_gdp_cr_2006_2018;
