@@ -1,4 +1,4 @@
-CREATE OR REPLACE TABLE t_barbora_maskova_project_SQL_secondary_final AS
+CREATE OR REPLACE TABLE t_barbora_maskova_project_sql_secondary_final AS
 SELECT
 	c.country ,
 	e.`year` ,
